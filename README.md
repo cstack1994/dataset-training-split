@@ -8,6 +8,6 @@ train / val / test dataset split code
 |python|3.9|
 
 
-### 기능 구현 리스트
+# 기능 구현 리스트
 1. train.txt / test.txt split
 2. 
