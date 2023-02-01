@@ -1,16 +1,13 @@
 # dataset-training-split
+
 train / val / test dataset split code
 
 # Version list
 |environment|version|
-|------|---|---|
+|---|---|
+|python|3.9|
 
 
 ### 기능 구현 리스트
-1. train.txt / test.txt 파일 분리
+1. train.txt / test.txt split
 2. 
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
